@@ -1,4 +1,4 @@
-SaralPad
+# SaralPad
 
 SaralPad is a 4 key macropad with a rotary encoder, an OLED Display. It also has 2 WS2812B Leds, and uses QMK firmware
 
