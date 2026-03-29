@@ -41,10 +41,10 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
-			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(usegerberextensions yes)
+			(usegerberattributes no)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -69,12 +69,12 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Production/Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -12455,10 +12455,10 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Seeed Studio"
-		(at 176.712015 105.0895 270)
+	(gr_text "XIAO"
+		(at 174.712015 105.0895 270)
 		(layer "B.SilkS")
-		(uuid "19387fce-8920-4e07-b866-1dda619904ae")
+		(uuid "3aff7fc0-80b7-4dc4-9d6b-25461163621f")
 		(effects
 			(font
 				(size 1 1)
@@ -12467,10 +12467,10 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "XIAO"
-		(at 174.712015 105.0895 270)
+	(gr_text "Seeed Studio"
+		(at 176.712015 105.0895 270)
 		(layer "B.SilkS")
-		(uuid "39913ffa-4b2a-47ea-be03-0481931d9be4")
+		(uuid "aa83e2e3-4f68-43f1-ada4-017f46075f46")
 		(effects
 			(font
 				(size 1 1)
@@ -13630,6 +13630,47 @@
 		(layer "F.Cu")
 		(net 28)
 		(uuid "c81000fe-8ef2-48ec-9d0e-3dd99c0db843")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "*.Adhes")
+		(uuid "399df902-5c21-4e62-82a8-82b4137fe3ac")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 78.9 51.45) (xy 78.9 157.4) (xy 192 157.75) (xy 195.1 51.55)
+			)
+		)
+		(filled_polygon
+			(layer "F.Adhes")
+			(island)
+			(pts
+				(xy 184.143039 57.219685) (xy 184.188794 57.272489) (xy 184.2 57.324) (xy 184.2 152.776) (xy 184.180315 152.843039)
+				(xy 184.127511 152.888794) (xy 184.076 152.9) (xy 85.524 152.9) (xy 85.456961 152.880315) (xy 85.411206 152.827511)
+				(xy 85.4 152.776) (xy 85.4 57.324) (xy 85.419685 57.256961) (xy 85.472489 57.211206) (xy 85.524 57.2)
+				(xy 184.076 57.2)
+			)
+		)
+		(filled_polygon
+			(layer "B.Adhes")
+			(island)
+			(pts
+				(xy 184.143039 57.219685) (xy 184.188794 57.272489) (xy 184.2 57.324) (xy 184.2 152.776) (xy 184.180315 152.843039)
+				(xy 184.127511 152.888794) (xy 184.076 152.9) (xy 85.524 152.9) (xy 85.456961 152.880315) (xy 85.411206 152.827511)
+				(xy 85.4 152.776) (xy 85.4 57.324) (xy 85.419685 57.256961) (xy 85.472489 57.211206) (xy 85.524 57.2)
+				(xy 184.076 57.2)
+			)
+		)
 	)
 	(embedded_fonts no)
 )
