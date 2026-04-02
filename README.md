@@ -29,7 +29,7 @@ Currently Firmware is underdevelopment so there is some time to finished product
 This Hackpad uses QMK Firmware for everything.
 Features after completion:
  - Different key profile for different uses(Browsing, Coding, Gaming, and much more). 
- - One Rotatory encoder to change profile and one for Brightness and Volume.
+ - One Rotatory encoder to change profile.
  - Oled Display to show key profile and different data about computer(Don't know if later is possible)
 
  I might add more in the future! That's it for now.
