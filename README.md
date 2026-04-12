@@ -21,7 +21,8 @@ Made in Autodesk Fusion.
 ### PCB:
 Here's my PCB! It was made in KiCad. 
 
-
+Schematic : ![Complete Saralpad](PCB/Assets/pcb_sch.png)
+PCB Footprint : ![Complete Saralpad](PCB/Assets/pcb_footprint.png)
 
 ### Firmware Overview:
 Currently Firmware is underdevelopment so there is some time to finished product.
