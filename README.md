@@ -50,4 +50,4 @@ Features after completion:
  ### Extra Stuff:
  Learned few new things, realised I have short temper and I am quite dumb in some cases.
  Don't know what should I add more. 
- For future : I submitted this during war, I thought of not completing it as (not going to state as it is obvious), just tell   me my future-self :- Would you have regretted if hadn't submitted?? 
+ For future : I submitted this during war, I thought of not completing it as (not going to state as it is obvious), just tell   me my future-self :- Would you have regretted if hadn't submitted?

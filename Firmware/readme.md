@@ -2,7 +2,7 @@
 
 ![saralpad](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+*A short description of the keyboard*
 
 * Keyboard Maintainer: [Debu](https://github.com/Crocodile)
 * Hardware Supported: This is built for RP2040
