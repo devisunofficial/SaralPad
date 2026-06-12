@@ -15,14 +15,14 @@ It focuses on minimalism and ease of getting work done with as minimum clicks as
 Everything fits together using 4 M3 Bolts and heatset inserts.
 
 It has 3 separate printed pieces. The backplate, the Middle plate to support pcb, and Top to cover electronics.
-![Complete Saralpad](CAD/Assetes/case_img2.png)
+![Complete Saralpad](CAD_Model/Assetes/case_img2.png)
 Made in Autodesk Fusion.
 
 ### PCB:
 Here's my PCB! It was made in KiCad. 
 
-Schematic : ![Complete Saralpad](PCB/Assets/pcb_sch.png)
-PCB Footprint : ![Complete Saralpad](PCB/Assets/pcb_footprint.png)
+Schematic : ![Complete Saralpad](PCB_Design/Assets/pcb_sch.png)
+PCB Footprint : ![Complete Saralpad](PCB_Design/Assets/pcb_footprint.png)
 
 ### Firmware Overview:
 Currently Firmware is underdevelopment so there is some time to finished product.
@@ -34,18 +34,16 @@ Features after completion:
 
  I might add more in the future! That's it for now.
 
-### BOM:
- - 12x Cherry MX Switches
- - 12x DSA Keycaps
- - 4x M3x5x4 Heatset inserts
- - 4x M3x16mm SHCS Bolts
- - 4x M3x16mm SHCS Bolts
- - 14x 1N4148 DO-35 Diodes.
- - 1x XIAO RP2040
- - 1x 0.91" 128x32 OLED Display
- - 2x EC11 Rotary Encoder
- - 1x Case (3 printed parts)
- - 1x PCB
+### BOM Table
+|S. No.|Name|Use|Quantity|
+|------|----|---|-----------|
+|1|Cherry MX Switches|Switches|12|
+|2|Case (3 printed parts)|Hackpad Enclosure|1|
+|3|XIAO RP2040|Microcontroller|1|
+|4|0.91" 128x32 OLED Display|Display|1|
+|5|EC11 Rotary Encoder|Fidget Toy and Mode Selector|2|
+|6|PCB|Main Circuit|1|
+|7|KeyCaps |Keycaps for Cherry Switches|12|
 
  ### Extra Stuff:
  Learned few new things, realised I have short temper and I am quite dumb in some cases.
