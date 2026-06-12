@@ -35,15 +35,15 @@ Features after completion:
  I might add more in the future! That's it for now.
 
 ### BOM Table
-|S. No.|Name|Use|Quantity|
-|------|----|---|-----------|
-|1|Cherry MX Switches|Switches|12|
-|2|Case (3 printed parts)|Hackpad Enclosure|1|
-|3|XIAO RP2040|Microcontroller|1|
-|4|0.91" 128x32 OLED Display|Display|1|
-|5|EC11 Rotary Encoder|Fidget Toy and Mode Selector|2|
-|6|PCB|Main Circuit|1|
-|7|KeyCaps |Keycaps for Cherry Switches|12|
+|S. No.|Name|Use|Quantity|Total Cost|Distributer|
+|------|----|---|-----------|------|-------|
+|1|KeyCaps |Keycaps for Cherry Switches|12|$14 |Amazon
+|2|EC11 Rotary Encoder|Fidget Toy and Mode Selector|2|$3 |Amazon|
+|3|Case (3 printed parts)|Hackpad Enclosure|1|$8 |JLCPCB|
+|4|PCB|Main Circuit|1|$3 |JLCPCB|
+|5|Cherry MX Switches|Switches|12|$18 |Amazon|
+|6|0.91" 128x32 OLED Display|Display|1|$4 |Amazon|
+|7|XIAO RP2040|Microcontroller|1|$24 |Amazon|
 
  ### Extra Stuff:
  Learned few new things, realised I have short temper and I am quite dumb in some cases.
