@@ -33,7 +33,10 @@ Features after completion:
  - Oled Display to show key profile and different data about computer(Don't know if later is possible)
 
  I might add more in the future! That's it for now.
+<<<<<<< HEAD
 
+=======
+>>>>>>> d6bcb31d9d5aabd6851db82c1728e09225ee2757
 ### BOM Table
 |S. No.|Name|Use|Quantity|
 |------|----|---|-----------|
