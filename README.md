@@ -33,20 +33,17 @@ Features after completion:
  - Oled Display to show key profile and different data about computer(Don't know if later is possible)
 
  I might add more in the future! That's it for now.
-<<<<<<< HEAD
 
-=======
->>>>>>> d6bcb31d9d5aabd6851db82c1728e09225ee2757
+
 ### BOM Table
 |S. No.|Name|Use|Quantity|
 |------|----|---|-----------|
 |1|Cherry MX Switches|Switches|12|
-|2|Case (3 printed parts)|Hackpad Enclosure|1|
-|3|XIAO RP2040|Microcontroller|1|
-|4|0.91" 128x32 OLED Display|Display|1|
-|5|EC11 Rotary Encoder|Fidget Toy and Mode Selector|2|
-|6|PCB|Main Circuit|1|
-|7|KeyCaps |Keycaps for Cherry Switches|12|
+|2|XIAO RP2040|Microcontroller|1|
+|3|0.91" 128x32 OLED Display|Display|1|
+|4|EC11 Rotary Encoder|Fidget Toy and Mode Selector|2|
+|5|PCB|Main Circuit|1|
+|6|KeyCaps |Keycaps for Cherry Switches|12|
 
  ### Extra Stuff:
  Learned few new things, realised I have short temper and I am quite dumb in some cases.
